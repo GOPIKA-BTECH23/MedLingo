@@ -10,7 +10,9 @@ MedLingo is an AI-powered medical translation tool that simplifies complex disch
 
 ## 🚀 Live Demo
 
-[Try MedLingo on Streamlit Cloud](https://medlingo-ai-assistant.streamlit.app/)
+[Try MedLingo on Streamlit Cloud][(https://medlingo-gopika.streamlit.app/)]
+
+
 
 ## 📦 Local Installation
 
